@@ -21,7 +21,7 @@ export default function Gallery() {
   let sculpture = sculptureList[index];
   return (
     <>
-    <h2>Sean Glenn Magcalas</h2>
+    <h1>Sean Glenn Magcalas</h1>
     <div className='container-button'>
       <button onClick={handleBackClick}>
           Back
